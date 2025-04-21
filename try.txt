@@ -1,0 +1,4 @@
+host: 'localhost',
+      user: 'myuser',
+      password: 'MySecureP@ss123',
+      database: 'myapp'
